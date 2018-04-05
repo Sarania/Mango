@@ -1,0 +1,15 @@
+[Project]
+Version=3
+Description=An RPG Engine in FreeBASIC
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=Windows GUI,fbc -s gui
+Recompile=2
+Module=Module Build,fbc -c
+[TabOrder]
+TabOrder=
+[File]
+1=Mango.bas
+[BreakPoint]
+1=
