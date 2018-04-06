@@ -8,8 +8,10 @@ Current=1
 Recompile=2
 Module=Module Build,fbc -c
 [TabOrder]
-TabOrder=
+TabOrder=1,0
 [File]
 1=Mango.bas
 [BreakPoint]
 1=
+[FileInfo]
+1=0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
